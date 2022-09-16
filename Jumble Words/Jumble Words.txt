@@ -1,0 +1,93 @@
+add: Arithmatic Sum
+age: Length of time somebody has lived
+ago: Back in time
+bet: Risking money on an event trying to predict the result
+bee: Insect making honey
+bid: Offer to pay at an Auction House
+cue: Signal to act in a play
+dot: Small round mark
+egg: Ingredient of omellette
+fat: Too much weight
+gap: An empty space
+hay: Dried grass used as animal food
+icy: Very cold
+jet: Fast modern plane
+kit: Set of equipments
+lot: Large amount of something
+man: Adult male person
+net: Fabric for fishing
+nan: Grandmother
+own: Belongings
+ply: Type of wood
+pub: Bar 
+ski: Sport associated with Mountains
+ted: Process of turning and spreading of hay
+tub: A large round container
+van: Common transport for School
+via: Going through something
+wit: Ability to amuse
+yet: Something that is expected to happen
+zip: Device for fastening bags and clothes
+apply: Asking someone in writing
+awful: unpleasant
+above: In a higher place
+basic: Simple
+bible: Christian scriptures
+bring: carry something with you
+claim: State something without proof
+cream: Product of milk
+crime: Illegal action
+dozen: A set of twelve
+depth: Distant from top to bottom
+enemy: Person actively hostile to someone
+eight: 8
+entry: Act of coming in
+fence: Barrier
+fiber: Threads from veggies
+flame: Component of fire
+guard: Act of protection
+habit: Regular practice or tendency
+human: Kind characteristics
+image: Visual impression obtained by camera
+judge: Public official in court of law
+knife: Sharp tool used for cutting
+local: Belonging of a particular area
+lemon: Sour yellow fruit
+metal: Shiny, malleable, ductile solid substance
+naive: Lack of experience
+onion: Vegetable that makes us cry
+piece: Portion of a substance
+sense: Consciousness
+tough: Rigid
+absence: Not present
+brother: Your mom's other son
+caliber: Diameter of the inside of cylinder
+ceiling: Interior upper surface of the room
+devoted: Being dedicated
+engaged: Busy or occupied
+fiction: Literature consisting of imaginative stories
+genuine: Regular
+gallery: Room for display
+holiday: Vacation
+husband: Married man
+imaging: Process of visually representing something
+jointly: Collectively
+killing: Murdering
+kitchen: Room for making food
+leisure: Free time
+license: Permit from an authority
+message: A verbal, written, or recorded communication
+neutral: Unbiased or unaligned
+obvious: Easily predictable
+optical: Related to sight
+pacific: Peaceful in character or intent
+penalty: Punishment imposed for breaking a law
+phoenix: Mythological bird that lived six centuries in Arabian desert
+quality: general excellence of standard
+receipt: Printed statement of acknowledgement
+reflect: Throw back without absorbing
+science: Study of physical and natural world
+silicon: Material used to make Computers
+therapy: Treatment intended to relieve or heal a disorder
+unknown: Unfamiliar
+venture: Risky or daring journey
