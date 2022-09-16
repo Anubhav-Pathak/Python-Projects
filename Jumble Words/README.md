@@ -8,16 +8,16 @@ A simple puzzle game you have been playing since a kid
    * Easy level: contains jumble words of length 3
    * Medium level: contains jumble words of length 5
    * Hard level: contains jumble words of length 7
-![Menu](./Screenshots/Jumble%20Words%201.png")
+   * ![Menu](./Screenshots/Jumble%20Words%201.png)
 
 2. _Tutorial_
    * A Total of 10 Words will be asked
    * You can only use 3 hints
-![Tutorial](./Screenshots/Jumble%20Words%202.png)
+   * ![Tutorial](./Screenshots/Jumble%20Words%202.png)
 
 3. _A Sample Run_
-![Sample Run](./Screenshots/Jumble%20Words%203.png)
-![Exit](./Screenshots/Jumble%20Words%204.png)
+   * ![Sample Run](./Screenshots/Jumble%20Words%203.png)
+   * ![Exit](./Screenshots/Jumble%20Words%204.png)
 
 ## Project made using
 
