@@ -1,23 +1,34 @@
 # Jumble Words
 
-A simple puzzle game you have been playing since a kid
+A simple CLI puzzle game of jumbled words built on Python.
+
+## Install Game
+
+1. Clone the repository  
+   `git clone https://github.com/Anubhav-Pathak/Python-Projects.git`
+
+2. Navigate to Tic Tac Toe folder  
+   `cd "Jumble Words"`
+
+3. Run Tic Tac Toe.py  
+   `python "Jumble Words.py"`
 
 ## How to play
 
 1. _Select level from the menu_
    * Easy level: contains jumble words of length 3
    * Medium level: contains jumble words of length 5
-   * Hard level: contains jumble words of length 7
-   * ![Menu](./Screenshots/Jumble%20Words%201.png)
+   * Hard level: contains jumble words of length 7  
+   ![Menu](./Screenshots/Jumble%20Words%201.png)
 
-2. _Tutorial_
+2. _Tutorial_  
    * A Total of 10 Words will be asked
-   * You can only use 3 hints
-   * ![Tutorial](./Screenshots/Jumble%20Words%202.png)
+   * You can only use 3 hints  
+   ![Tutorial](./Screenshots/Jumble%20Words%202.png)
 
-3. _A Sample Run_
-   * ![Sample Run](./Screenshots/Jumble%20Words%203.png)
-   * ![Exit](./Screenshots/Jumble%20Words%204.png)
+3. _A Sample Run_  
+   ![Sample Run](./Screenshots/Jumble%20Words%203.png)  
+   ![Exit](./Screenshots/Jumble%20Words%204.png)
 
 ## Project made using
 
