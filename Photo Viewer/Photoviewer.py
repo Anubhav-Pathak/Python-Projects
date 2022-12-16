@@ -1,9 +1,13 @@
 from tkinter import *
 from PIL import ImageTk, Image
-import random
+import random, os
+dir = os.path.dirname(__file__)
+images = ["Classroom.jpg","Cooking.jpg","Couples.jpg"]
+path = os.path.join(dir,"Images",images)
+print(dir)
 root = Tk()
 root.title("Image Viewer")
-img1 = ImageTk.PhotoImage(Image.open("Projects\Photo Viewer\Images\Adventure.jpg"))
+img1 = ImageTk.PhotoImage(Image.open("Projects\Photo Viewer\Images\Classroom.jpg"))
 img2 = ImageTk.PhotoImage(Image.open("Projects\Photo Viewer\Images\Classroom.jpg"))
 img3 = ImageTk.PhotoImage(Image.open("Projects\Photo Viewer\Images\Cooking.jpg"))
 img4 = ImageTk.PhotoImage(Image.open("Projects\Photo Viewer\Images\Couples.jpg"))
