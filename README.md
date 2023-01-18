@@ -6,7 +6,7 @@ This contains some of the Projects I build using Python.
 
 1. Jumble Words
 2. Tic Tac Toe
-3. Photo Viewer (In Development phase)
+3. Photo Viewer
 
 ## Technologies used
 
