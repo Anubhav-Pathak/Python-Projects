@@ -1,9 +1,9 @@
 from tkinter import *
 from PIL import ImageTk, Image
-import random, os
+import random, os, re
 dir = os.path.dirname(__file__)
-images = ["Classroom.jpg","Cooking.jpg","Couples.jpg","Detective.jpg","Longing.jpg","Music.jpg","Samurai.jpg","Shed.jpg","Submarine.jpg","Sunrise.jpg","Winter.jpg"]
-path = os.path.join(dir,"Images",images[3])
+images = os.listdir(os.path.join(dir,"Images"))
+images = [image for image in images if re.search(r"(.jpg)|(.png)|(.jpeg)", image)]
 root = Tk()
 root.title("Image Viewer")
 backward = Button(root, text="<", command=lambda: Move(n-1), pady=10, padx=10)
