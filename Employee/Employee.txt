@@ -1,0 +1,2 @@
+101, Anubhav Pathak, 26-01-2002, 100000, Artificial Intelligence, 
+102, Pragam Gupta, 17-08-2002, 150000, Artificial Intelligence, 
