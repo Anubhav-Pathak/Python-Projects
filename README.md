@@ -7,7 +7,7 @@ This contains some of the Projects I build using Python.
 1. Jumble Words
 2. Tic Tac Toe
 3. Photo Viewer
-4. Employee Management System (In Development)
+4. Employee Management System
 
 ## Technologies used
 
